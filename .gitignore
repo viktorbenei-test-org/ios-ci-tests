@@ -2,3 +2,4 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 build/
+report.xml
