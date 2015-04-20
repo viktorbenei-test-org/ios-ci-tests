@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="fastlane">
   <testsuite name="deploy">
-    <testcase name="0: fastlane_version" time="0.000132"/>
-    <testcase name="1: default_platform" time="2.3e-05"/>
-    <testcase name="2: ipa" time="8.064669"/>
-    <testcase name="3: snapshot" time="404.904275"/>
+    <testcase name="0: fastlane_version" time="0.000235"/>
+    <testcase name="1: default_platform" time="4.1e-05"/>
+    <testcase name="2: ipa" time="8.061134"/>
+    <testcase name="3: xctest" time="10.295028"/>
   </testsuite>
 </testsuites>

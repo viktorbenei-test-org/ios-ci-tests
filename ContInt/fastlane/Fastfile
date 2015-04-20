@@ -35,6 +35,11 @@ platform :ios do
 
   desc "Runs all the tests"
   lane :test do
+    # Run tests in given simulator
+    xctest(
+      scheme: "ContInt",
+      destination: "name=iPhone 5s"
+    )
     # snapshot
   end
 
